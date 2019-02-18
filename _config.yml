@@ -36,7 +36,7 @@ kramdown:
 owner:
   name: Ann Chihak Poff
   avatar: leonids-logo.png
-  job: "Yoga teacher, spin instructor, fitness enthusiast."
+#  job: "Yoga teacher, spin instructor, fitness enthusiast."
   bio: "Yoga teacher, spin instructor, fitness enthusiast."
   email: ann@gofitgirl.com
   disqus-shortname:
@@ -62,7 +62,7 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: #username
+  youtube: UCkWFG9Xz-D9mSlNinBpoSHg?
   soundcloud: #username
   weibo: #username
   flickr: #username
