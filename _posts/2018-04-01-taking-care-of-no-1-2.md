@@ -19,7 +19,10 @@ tags:
   - yoga teacher
   - yurt yoga
 ---
-<a href="http://gofitgirl.com/2018/04/taking-care-of-no-1-2/heart-for-post/" rel="attachment wp-att-16009"><img class="alignleft size-medium wp-image-16009" src="http://gofitgirl.com/wp-content/uploads/2018/03/heart-for-post-300x300.png" alt="" width="300" height="300" /></a>I recently made the decision to drastically reduce my teaching schedule.  
+
+![Heart](http://gofitgirl.com/wp-content/uploads/2018/03/heart-for-post.png "Heart")
+
+I recently made the decision to drastically reduce my teaching schedule.  
 Many of you know that and some of you don't know.  
 This was a difficult decision to make and I didn't take it lightly or make this decision without a lot of thought and love put into it.  
 

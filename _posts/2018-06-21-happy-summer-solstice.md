@@ -20,7 +20,7 @@ tags:
   - yurt yoga
 ---
 
-![Welcome Summer! ](http://gofitgirl.com/wp-content/uploads/2018/06/Happy-Summer-Solstice-300x300.png "Welcome Summer!")
+![Welcome Summer! ](http://gofitgirl.com/wp-content/uploads/2018/06/Happy-Summer-Solstice.png "Welcome Summer!")
 
 Welcome Summer!  
 

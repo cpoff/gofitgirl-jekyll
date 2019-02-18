@@ -17,7 +17,10 @@ tags:
   - non-violent communication
   - singing bowl
 ---
-<a href="http://gofitgirl.com/2018/03/lessons-almost-4-year-old/singing-bowl/" rel="attachment wp-att-15968"><img class="alignleft size-medium wp-image-15968" src="http://gofitgirl.com/wp-content/uploads/2018/02/singing-bowl-300x225.jpg" alt="" width="300" height="225" /></a>In September last year (2017) a friend from the Bay Area was visiting with his almost 4-year-old (who is now 4!).  
+
+![Singing Bowl](http://gofitgirl.com/wp-content/uploads/2018/02/singing-bowl.jpg "Singing Bowl")
+
+In September last year (2017) a friend from the Bay Area was visiting with his almost 4-year-old (who is now 4!).  
 
 Our little friend has been practicing yoga for some time now at her day care. She loves it.  
 

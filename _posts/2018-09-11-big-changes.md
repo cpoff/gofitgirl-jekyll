@@ -17,7 +17,7 @@ tags:
 ---
 
 
-![I Love Tucson](http://gofitgirl.com/wp-content/uploads/2018/08/I-3-Tucson-300x300.png "I Love Tucson")
+![I Love Tucson](http://gofitgirl.com/wp-content/uploads/2018/08/I-3-Tucson.png "I Love Tucson")
 
 
 As we have entered September and we start to say goodbye to Summer and hello to Fall I have some **BIG NEWS** to share:

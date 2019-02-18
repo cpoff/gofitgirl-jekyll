@@ -18,7 +18,7 @@ tags:
 ---
 <a href="http://gofitgirl.com/2018/07/over-the-shoulder-shoulder-holder-backpack/backpack-at-desk/" rel="attachment wp-att-16139"><img class="alignleft wp-image-16139 size-medium" src="" alt="" width="300" height="300" /></a>
 
-![alt text](http://gofitgirl.com/wp-content/uploads/2018/06/Backpack-at-desk-300x300.jpg "")
+![alt text](http://gofitgirl.com/wp-content/uploads/2018/06/Backpack-at-desk.jpg "")
 
 In my yoga classes at the end of June and beginning of July we prepped the bodies for modified supported handstand (Adho Mukha Vrksasana).  
 
