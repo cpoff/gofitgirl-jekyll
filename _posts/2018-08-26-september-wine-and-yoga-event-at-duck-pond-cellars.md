@@ -16,7 +16,8 @@ tags:
   - yoga and wine
   - yoga in the vineyards
 ---
-<a href="http://gofitgirl.com/yoga-classes/duck-pond-yoga-in-vineyard/" rel="attachment wp-att-16161"><img class="alignleft wp-image-16161 size-medium" src="http://gofitgirl.com/wp-content/uploads/2018/07/Duck-Pond-yoga-in-vineyard-300x237.jpg" alt="" width="300" height="237" /></a>
+
+![Duck Pond Yoga](http://gofitgirl.com/wp-content/uploads/2018/07/Duck-Pond-yoga-in-vineyard-300x237.jpg "Duck Pond Yoga")
 
 I am excited to announce that I am partnering with [Duck Pond Cellars](http://www.duckpondcellars.com) in Dundee, Ore. for  Yoga in the Vineyards event on **Sunday, September 16 at 11 a.m.**  
 Sign up online through Friday, September 14. After that, call the number below.  
