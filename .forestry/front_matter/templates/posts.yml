@@ -42,3 +42,5 @@ fields:
   name: image
   label: image
   description: Thumbnail
+pages:
+- _posts/curt-s-first-test.md
