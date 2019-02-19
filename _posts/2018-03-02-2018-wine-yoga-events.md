@@ -21,10 +21,7 @@ tags:
   - wine tasting
   - yoga
 ---
-
-![Wine and Yoga](http://gofitgirl.com/wp-content/uploads/2018/03/Wine-and-yoga-2018-FB-cover.png "Wine and Yoga")
-
-I am once again partnering with Hip Chicks do Wine in 2018 for more wine and yoga events.  
+<a href="http://gofitgirl.com/2018/03/2018-wine-yoga-events/wine-and-yoga-2018-fb-cover/" rel="attachment wp-att-15974"><img class="aligncenter wp-image-15974 size-full" src="http://gofitgirl.com/wp-content/uploads/2018/03/Wine-and-yoga-2018-FB-cover.png" alt="" width="828" height="315" /></a>I am once again partnering with Hip Chicks do Wine in 2018 for more wine and yoga events.  
 
 Wine and yoga events at Hip Chicks are so much fun! If you came last year, you know how great they are, and you likely want to come again. And if you didn’t have a chance to come and want to, book the below dates now!  
 

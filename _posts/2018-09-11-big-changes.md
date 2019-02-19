@@ -15,10 +15,7 @@ tags:
   - yoga
   - yoga teacher training
 ---
-
-
-![I Love Tucson](http://gofitgirl.com/wp-content/uploads/2018/08/I-3-Tucson.png "I Love Tucson")
-
+<a href="http://gofitgirl.com/2018/09/big-changes/i-3-tucson/" rel="attachment wp-att-16177"><img class="alignleft size-medium wp-image-16177" src="http://gofitgirl.com/wp-content/uploads/2018/08/I-3-Tucson-300x300.png" alt="" width="300" height="300" /></a>
 
 As we have entered September and we start to say goodbye to Summer and hello to Fall I have some **BIG NEWS** to share:
 

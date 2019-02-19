@@ -3,23 +3,22 @@
 # Site wide configuration
 ####################################
 #
-title: GoFitGirl!
-email: ann@gofitgirl.com
-description: Diet, health and fitness tips for average women. Site created and maintained by Ann Chihak Poff.
+title: Leonids
+email:
+description: A simple and awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
-keywords: ["blog", "yoga", "fitness", "gofitgirl", "cycling", "spin", "diet", "health", "woman", "women", "girls", "weight", "food", "exercise"]
+keywords: ["blog", "jekyll"]
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          America/Phoenix
+timezone:          Europe/Paris
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
-permalink:         /:year/:month/:date/:title
-paginate: 10
+permalink:         /articles/:year-:month/:title
 
 kramdown:
   auto_ids: true
@@ -34,14 +33,14 @@ kramdown:
 ####################################
 #
 owner:
-  name: Ann Chihak Poff
+  name: Leonids
   avatar: leonids-logo.png
-#  job: "Yoga teacher, spin instructor, fitness enthusiast."
-  bio: "Yoga teacher, spin instructor, fitness enthusiast."
-  email: ann@gofitgirl.com
+  job: "A jekyll theme"
+  bio: "A simple and awesome blog theme powered by jekyll."
+  email:
   disqus-shortname:
-  twitter: gofitgirl
-  facebook: gofitgirl
+  twitter: #username
+  facebook: #username
   google:
     plus: #username
     analytics:
@@ -55,14 +54,14 @@ owner:
   linkedin: #username
   skype: #username
   xing: #username
-  instagram: therealgofitgirl
+  instagram: #username
   lastfm: #username
   tumblr: #username
   pinterest: #username
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: UCkWFG9Xz-D9mSlNinBpoSHg?
+  youtube: #username
   soundcloud: #username
   weibo: #username
   flickr: #username

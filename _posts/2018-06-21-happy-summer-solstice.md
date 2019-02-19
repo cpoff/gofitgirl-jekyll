@@ -19,9 +19,7 @@ tags:
   - "yoga before wine you'll be fine"
   - yurt yoga
 ---
-
-![Welcome Summer! ](http://gofitgirl.com/wp-content/uploads/2018/06/Happy-Summer-Solstice.png "Welcome Summer!")
-
+<a href="http://gofitgirl.com/2018/06/happy-summer-solstice/happy-summer-solstice/" rel="attachment wp-att-16125"><img class="aligncenter size-medium wp-image-16125" src="http://gofitgirl.com/wp-content/uploads/2018/06/Happy-Summer-Solstice-300x300.png" alt="" width="300" height="300" /></a>  
 Welcome Summer!  
 
 Read below for some fun ways to welcome Summer with me today, tomorrow and Saturday.  

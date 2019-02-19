@@ -16,9 +16,7 @@ tags:
   - posture
   - yoga
 ---
-<a href="http://gofitgirl.com/2018/07/over-the-shoulder-shoulder-holder-backpack/backpack-at-desk/" rel="attachment wp-att-16139"><img class="alignleft wp-image-16139 size-medium" src="" alt="" width="300" height="300" /></a>
-
-![alt text](http://gofitgirl.com/wp-content/uploads/2018/06/Backpack-at-desk.jpg "")
+<a href="http://gofitgirl.com/2018/07/over-the-shoulder-shoulder-holder-backpack/backpack-at-desk/" rel="attachment wp-att-16139"><img class="alignleft wp-image-16139 size-medium" src="http://gofitgirl.com/wp-content/uploads/2018/06/Backpack-at-desk-300x300.jpg" alt="" width="300" height="300" /></a>
 
 In my yoga classes at the end of June and beginning of July we prepped the bodies for modified supported handstand (Adho Mukha Vrksasana).  
 
@@ -48,9 +46,7 @@ Make sure the strap is in equal length on both sides.
 
 ### Step 2
 
-![alt text](http://gofitgirl.com/wp-content/uploads/2018/06/Backpack-set-up-2-150x150.jpg "")
-
-Take the left end of the strap and drape it over your left shoulder.  
+<a href="http://gofitgirl.com/2018/07/over-the-shoulder-shoulder-holder-backpack/backpack-set-up-2/" rel="attachment wp-att-16142"><img class="alignleft size-thumbnail wp-image-16142" src="http://gofitgirl.com/wp-content/uploads/2018/06/Backpack-set-up-2-150x150.jpg" alt="" width="150" height="150" /></a>Take the left end of the strap and drape it over your left shoulder.  
 
 Take the right end of the strap and drape it over your right shoulder.  
 
@@ -62,9 +58,7 @@ It should fit snugly.
 
 ### Steps 3 and 4
 
-![alt text](http://gofitgirl.com/wp-content/uploads/2018/06/Backpack-set-up-3-150x150.jpg "")
-
-Take the strap and criss cross it over the back of your shoulders.  
+<a href="http://gofitgirl.com/2018/07/over-the-shoulder-shoulder-holder-backpack/backpack-set-up-3/" rel="attachment wp-att-16143"><img class="alignleft size-thumbnail wp-image-16143" src="http://gofitgirl.com/wp-content/uploads/2018/06/Backpack-set-up-3-150x150.jpg" alt="" width="150" height="150" /></a>Take the strap and criss cross it over the back of your shoulders.  
 
 Again check if the strap loosened and adjust if you need. 
  
@@ -74,9 +68,7 @@ Take the opposite ends of each strap and opposite hands and gently pull down.
 
 ### Step 5 (optional)
 
-![alt text](http://gofitgirl.com/wp-content/uploads/2018/06/Backpack-set-up-4-150x150.jpg "")
-
-If your strap is long enough and has a buckle you can fasten yourself in and the backpack is now hands free.  
+<a href="http://gofitgirl.com/2018/07/over-the-shoulder-shoulder-holder-backpack/backpack-set-up-4/" rel="attachment wp-att-16144"><img class="alignleft size-thumbnail wp-image-16144" src="http://gofitgirl.com/wp-content/uploads/2018/06/Backpack-set-up-4-150x150.jpg" alt="" width="150" height="150" /></a>If your strap is long enough and has a buckle you can fasten yourself in and the backpack is now hands free.  
 
 If you don't have a strap with a buckle or it isn't long enough just hold the strap in your hands while standing or seated.  
 

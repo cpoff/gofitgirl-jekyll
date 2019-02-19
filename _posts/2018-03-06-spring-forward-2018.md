@@ -27,8 +27,8 @@ tags:
   - water
   - yoga
 ---
-  
-![Spring Forward](http://gofitgirl.com/wp-content/uploads/2015/10/time.jpg)
+<div id="attachment_14425" style="width: 310px" class="wp-caption alignleft">
+  <a href="http://gofitgirl.com/2015/10/fall-back-3/time-3/" rel="attachment wp-att-14425"><img class="wp-image-14425 size-medium" src="http://gofitgirl.com/wp-content/uploads/2015/10/time-300x224.jpg" alt="" width="300" height="224" /></a>
   
   <p class="wp-caption-text">
     On Sunday at 2 a.m. most of us in the U.S. Spring Forward.
